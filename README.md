@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=#9dd84b&height=150&section=header&text=Lime&fontSize=100" />
-![header](https://capsule-render.vercel.app/api?type=wave&color=#9dd84b&height=150&section=header&text=Lime&fontSize=100)
+<img src="https://capsule-render.vercel.app/api?type=venom&color=9dd84b&height=150&section=header&text=Lime&fontSize=100"/>
