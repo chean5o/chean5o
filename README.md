@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=d0fc5c&height=150&section=header&text=Lime&fontSize=70&fontColor=696969"/>
 
-안녕하세요! 신입 백엔드 개발자 오채은 입니다.
+# 안녕하세요! 신입 백엔드 개발자 오채은 입니다.
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
