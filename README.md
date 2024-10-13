@@ -25,3 +25,9 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" style="width: 100%;" />
   </div>
 </div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=chean5o&theme=darkhub&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  </a>
+</div>
