@@ -1,16 +1,26 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=d0fc5c&height=150&section=header&text=Lime🍋&fontSize=70&fontColor=696969"/>
 
-<h3> 안녕하세요 신입 백엔드 개발자 오채은입니다.</h3>
-
-<h2>Profile</h2>
-<div>
-  <strong>Name:</strong> 오채은<br>
-  <strong>Brith:</strong> 2001.06.05<br>
-  <strong>University:</strong> SangMyung Univ.<br>
-  <strong>University:</strong> Software<br>
-  <strong>MBTI:</strong> ENTP
+<div align="center">
+  <table>
+    <tr>
+      <!-- 좌측 이미지 -->
+      <td>
+        <img src="https://github.com/user-attachments/assets/fdc41991-6f79-4177-9b02-0cd5bed2e60b" alt="My GitHub Photo" width="200" />
+      </td>
+      <!-- 우측 프로필 -->
+      <td style="text-align: left; padding-left: 20px;">
+        <h2>Profile</h2>
+        <p><strong>Name:</strong> 오채은</p>
+        <p><strong>Birth:</strong> 2001.06.05</p>
+        <p><strong>E-mail:</strong> oce20010605@gmail.com</p>
+        <p><strong>University:</strong> SangMyung Univ.</p>
+        <p><strong>Major:</strong> Software</p>
+        <p><strong>MBTI:</strong> ENTP</p>
+      </td>
+    </tr>
+  </table>
 </div>
-  
+
 <h2>📚 Tech Stack</h2>
 
 <h3> Language </h3>
