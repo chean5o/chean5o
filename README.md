@@ -16,12 +16,7 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=venom&color=d0fc5c&height=150&section=header&text=Lime&fontSize=70&fontColor=696969"/>
 
 
-<h3 align="center">GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true" alt="Anurag's GitHub stats" />
-</p>
-
-<h3 align="center"></h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true" alt="Anurag's GitHub stats" style="width: 45%; display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" style="width: 45%; display: inline-block;" />
+</div>
