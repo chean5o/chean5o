@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=venom&color=d0fc5c&height=150&section=header&text=Lime&fontSize=70&fontColor=696969"/>
 
 <div align="center">
-  <h3>GitHub Stats</h3>
+  <h5>GitHub Stats</h5>
   <img src="https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true" alt="Anurag's GitHub stats" style="width: 40%;" />
-  <h3>Top Languages</h3>
+  <h5>Top Languages</h5>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" style="width: 25%;" />
 </div>
