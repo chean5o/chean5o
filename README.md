@@ -16,10 +16,15 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=venom&color=d0fc5c&height=150&section=header&text=Lime&fontSize=70&fontColor=696969"/>
 
 
+  
+</div>
+
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact)
 </div>
+
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
