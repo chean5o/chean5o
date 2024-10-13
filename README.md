@@ -17,6 +17,11 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true" alt="Anurag's GitHub stats" style="width: 45%; display: inline-block;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" style="width: 45%; display: inline-block;" />
+  <div style="display: inline-block; text-align: center; width: 45%;">
+    <h3>GitHub Stats</h3>
+    <img src="https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true" alt="Anurag's GitHub stats" style="width: 100%;" />
+  </div>
+  <div style="display: inline-block; text-align: center; width: 30%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" style="width: 100%;" />
+  </div>
 </div>
