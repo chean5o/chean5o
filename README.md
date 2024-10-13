@@ -1,5 +1,16 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=d0fc5c&height=150&section=header&text=Lime&fontSize=70&fontColor=696969"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=d0fc5c&height=150&section=header&text=Lime🍋&fontSize=70&fontColor=696969"/>
 
+<h3> 안녕하세요 신입 백엔드 개발자 오채은입니다.</h3>
+
+<h2>Profile</h2>
+<div>
+  <strong>Name:</strong> 오채은<br>
+  <strong>Brith:</strong> 2001.06.05<br>
+  <strong>University:</strong> SangMyung Univ.<br>
+  <strong>University:</strong> Software<br>
+  <strong>MBTI:</strong> ENTP
+</div>
+  
 <h2>📚 Tech Stack</h2>
 
 <h3> Language </h3>
