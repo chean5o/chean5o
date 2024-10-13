@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <div align="center">
   <div style="display: inline-block; text-align: center; width: 40%;">
     <h3>GitHub Stats</h3>
-    <img src="https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true" alt="Anurag's GitHub stats" style="width: 40%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true" alt="Anurag's GitHub stats" style="width: 100%;" />
   </div>
   <div style="display: inline-block; text-align: center; width: 25%;">
     <h3>Top Languages</h3>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" style="width: 25%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" style="width: 100%;" />
   </div>
 </div>
