@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 
 
 <h3 align="center">GitHub Stats</h3>
-
-<div align="center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chean5o&theme=vue&show_icons=true" alt="Anurag's GitHub stats" />
+</p>
 
 <h3 align="center"></h3>
-
-<div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chean5o&layout=compact" alt="Top Languages" />
+</p>
